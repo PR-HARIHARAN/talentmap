@@ -4,7 +4,8 @@ A comprehensive talent acquisition and management platform that connects student
 
 ## 📹 Video Demo
 
-[Drive Video Demo - Add your link here]()
+[![Demo](https://img.youtube.com/vi/CaqL0XI3-OU/maxresdefault.jpg)](https://youtu.be/CaqL0XI3-OU)
+
 
 ## 🎯 What It Does
 
